@@ -33,7 +33,7 @@ Occultiste du pacte de la lame maudite
 Loyal Neutre
 
 ### Status
-Vivante
+Morte 
 
 ### Naissance
 ~~8 Closeporte 1751~~
